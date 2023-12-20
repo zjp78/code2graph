@@ -1,0 +1,465 @@
+epoch: 0
+train: 
+epoch: 0, iter: 0, train_loss: 0.6591452956199646
+epoch: 0, iter: 1, train_loss: 0.6529748439788818
+epoch: 0, iter: 2, train_loss: 0.6470020413398743
+epoch: 0, iter: 3, train_loss: 0.6411691904067993
+epoch: 0, iter: 4, train_loss: 0.6353974342346191
+epoch: 0, iter: 5, train_loss: 0.6296392679214478
+epoch: 0, iter: 6, train_loss: 0.6238383650779724
+epoch: 0, iter: 7, train_loss: 0.6179953813552856
+epoch: 0, iter: 8, train_loss: 0.6121049523353577
+epoch: 0, iter: 9, train_loss: 0.606156587600708
+epoch: 0, iter: 10, train_loss: 0.6001262664794922
+epoch: 0, iter: 11, train_loss: 0.5939965844154358
+epoch: 0, iter: 12, train_loss: 0.587738573551178
+epoch: 0, iter: 13, train_loss: 0.5813402533531189
+epoch: 0, iter: 14, train_loss: 0.5747710466384888
+epoch: 0, iter: 15, train_loss: 0.5680099725723267
+epoch: 0, iter: 16, train_loss: 0.5610395669937134
+epoch: 0, iter: 17, train_loss: 0.5538318157196045
+epoch: 0, iter: 18, train_loss: 0.5463559031486511
+epoch: 0, iter: 19, train_loss: 0.5385924577713013
+epoch: 0, iter: 20, train_loss: 0.5305275917053223
+epoch: 0, iter: 21, train_loss: 0.5221057534217834
+epoch: 0, iter: 22, train_loss: 0.5133256316184998
+epoch: 0, iter: 23, train_loss: 0.504141092300415
+epoch: 0, iter: 24, train_loss: 0.49452996253967285
+epoch: 0, iter: 25, train_loss: 0.4844679832458496
+epoch: 0, iter: 26, train_loss: 0.4739379286766052
+epoch: 0, iter: 27, train_loss: 0.4629087448120117
+epoch: 0, iter: 28, train_loss: 0.4513463079929352
+epoch: 0, iter: 29, train_loss: 0.4392738938331604
+epoch: 0, iter: 30, train_loss: 0.4266139566898346
+epoch: 0, iter: 31, train_loss: 0.4134027361869812
+epoch: 0, iter: 32, train_loss: 0.3996359705924988
+epoch: 0, iter: 33, train_loss: 0.3853778839111328
+epoch: 0, iter: 34, train_loss: 0.3705969452857971
+epoch: 0, iter: 35, train_loss: 0.35535305738449097
+epoch: 0, iter: 36, train_loss: 0.3397347629070282
+epoch: 0, iter: 37, train_loss: 0.3238283097743988
+epoch: 0, iter: 38, train_loss: 0.3076961934566498
+epoch: 0, iter: 39, train_loss: 0.29149749875068665
+epoch: 0, iter: 40, train_loss: 0.2753143608570099
+epoch: 0, iter: 41, train_loss: 0.25935396552085876
+epoch: 0, iter: 42, train_loss: 0.24365359544754028
+epoch: 0, iter: 43, train_loss: 0.2284325361251831
+epoch: 0, iter: 44, train_loss: 0.21375465393066406
+epoch: 0, iter: 45, train_loss: 0.19976291060447693
+epoch: 0, iter: 46, train_loss: 0.18651136755943298
+epoch: 0, iter: 47, train_loss: 0.17408567667007446
+epoch: 0, iter: 48, train_loss: 0.16252657771110535
+epoch: 0, iter: 49, train_loss: 0.15186862647533417
+epoch: 0, iter: 50, train_loss: 0.14209134876728058
+epoch: 0, iter: 51, train_loss: 0.13316212594509125
+epoch: 0, iter: 52, train_loss: 0.12508425116539001
+epoch: 0, iter: 53, train_loss: 0.11778812110424042
+epoch: 0, iter: 54, train_loss: 2.251366376876831
+epoch: 0, iter: 55, train_loss: 0.11643426865339279
+epoch: 0, iter: 56, train_loss: 0.12105080485343933
+epoch: 0, iter: 57, train_loss: 0.12502996623516083
+epoch: 0, iter: 58, train_loss: 0.12832671403884888
+epoch: 0, iter: 59, train_loss: 0.13094688951969147
+epoch: 0, iter: 60, train_loss: 0.13293513655662537
+epoch: 0, iter: 61, train_loss: 0.13425548374652863
+epoch: 0, iter: 62, train_loss: 0.13498620688915253
+epoch: 0, iter: 63, train_loss: 0.13510848581790924
+epoch: 0, iter: 64, train_loss: 0.1346922367811203
+epoch: 0, iter: 65, train_loss: 0.1337813287973404
+epoch: 0, iter: 66, train_loss: 0.13239404559135437
+epoch: 0, iter: 67, train_loss: 0.1306067407131195
+epoch: 0, iter: 68, train_loss: 0.12846164405345917
+epoch: 0, iter: 69, train_loss: 0.12600699067115784
+epoch: 0, iter: 70, train_loss: 0.12330447882413864
+epoch: 0, iter: 71, train_loss: 0.1204109787940979
+epoch: 0, iter: 72, train_loss: 0.11735675483942032
+epoch: 0, iter: 73, train_loss: 0.11423289030790329
+epoch: 0, iter: 74, train_loss: 0.11103244870901108
+epoch: 0, iter: 75, train_loss: 0.10782023519277573
+epoch: 0, iter: 76, train_loss: 0.10463320463895798
+epoch: 0, iter: 77, train_loss: 0.10149296373128891
+epoch: 0, iter: 78, train_loss: 0.09843984991312027
+epoch: 0, iter: 79, train_loss: 0.09547188133001328
+epoch: 0, iter: 80, train_loss: 0.09262960404157639
+epoch: 0, iter: 81, train_loss: 0.08991554379463196
+epoch: 0, iter: 82, train_loss: 0.0873730406165123
+epoch: 0, iter: 83, train_loss: 0.08495733141899109
+epoch: 0, iter: 84, train_loss: 0.08273167908191681
+epoch: 0, iter: 85, train_loss: 0.08061786741018295
+epoch: 0, iter: 86, train_loss: 0.07871423661708832
+epoch: 0, iter: 87, train_loss: 0.07692829519510269
+epoch: 0, iter: 88, train_loss: 0.07531939446926117
+epoch: 0, iter: 89, train_loss: 0.07386745512485504
+epoch: 0, iter: 90, train_loss: 0.07254290580749512
+epoch: 0, iter: 91, train_loss: 0.07136912643909454
+epoch: 0, iter: 92, train_loss: 0.07031498104333878
+epoch: 0, iter: 93, train_loss: 0.06936850398778915
+epoch: 0, iter: 94, train_loss: 0.06857429444789886
+epoch: 0, iter: 95, train_loss: 0.06785397976636887
+epoch: 0, iter: 96, train_loss: 0.06723825633525848
+epoch: 0, iter: 97, train_loss: 0.0667080283164978
+epoch: 0, iter: 98, train_loss: 0.06624846905469894
+epoch: 0, iter: 99, train_loss: 0.06586717069149017
+epoch: 0, iter: 0, valid loss: 0.06553708761930466
+epoch: 0, iter: 1, valid loss: 0.06553708761930466
+epoch: 0, iter: 2, valid loss: 0.06553708761930466
+epoch: 0, iter: 3, valid loss: 0.06553708761930466
+epoch: 0, iter: 4, valid loss: 0.06553708761930466
+epoch: 0, iter: 5, valid loss: 0.06553708761930466
+epoch: 0, iter: 6, valid loss: 0.06553708761930466
+epoch: 0, iter: 7, valid loss: 0.06553708761930466
+epoch: 0, iter: 8, valid loss: 0.06553708761930466
+epoch: 0, iter: 9, valid loss: 0.06553708761930466
+epoch: 0, iter: 10, valid loss: 0.06553708761930466
+epoch: 0, iter: 11, valid loss: 0.06553708761930466
+epoch: 0, iter: 12, valid loss: 0.06553708761930466
+epoch: 0, iter: 13, valid loss: 0.06553708761930466
+epoch: 0, iter: 14, valid loss: 0.06553708761930466
+epoch: 0, iter: 15, valid loss: 0.06553708761930466
+epoch: 0, iter: 16, valid loss: 0.06553708761930466
+epoch: 0, iter: 17, valid loss: 0.06553708761930466
+epoch: 0, iter: 18, valid loss: 0.06553708761930466
+epoch: 0, iter: 19, valid loss: 0.06553708761930466
+epoch: 0, iter: 20, valid loss: 0.06553708761930466
+epoch: 0, iter: 21, valid loss: 0.06553708761930466
+epoch: 0, iter: 22, valid loss: 0.06553708761930466
+epoch: 0, iter: 23, valid loss: 0.06553708761930466
+epoch: 0, iter: 24, valid loss: 0.06553708761930466
+epoch: 0, iter: 25, valid loss: 0.06553708761930466
+epoch: 0, iter: 26, valid loss: 0.06553708761930466
+epoch: 0, iter: 27, valid loss: 0.06553708761930466
+epoch: 0, iter: 28, valid loss: 0.06553708761930466
+epoch: 0, iter: 29, valid loss: 0.06553708761930466
+epoch: 0, iter: 30, valid loss: 0.06553708761930466
+epoch: 0, iter: 31, valid loss: 0.06553708761930466
+epoch: 0, iter: 32, valid loss: 0.06553708761930466
+epoch: 0, iter: 33, valid loss: 0.06553708761930466
+epoch: 0, iter: 34, valid loss: 0.06553708761930466
+epoch: 0, iter: 35, valid loss: 0.06553708761930466
+epoch: 0, iter: 36, valid loss: 0.06553708761930466
+epoch: 0, iter: 37, valid loss: 0.06553708761930466
+epoch: 0, iter: 38, valid loss: 0.06553708761930466
+epoch: 0, iter: 39, valid loss: 0.06553708761930466
+epoch: 0, iter: 40, valid loss: 0.06553708761930466
+epoch: 0, iter: 41, valid loss: 0.06553708761930466
+epoch: 0, iter: 42, valid loss: 0.06553708761930466
+epoch: 0, iter: 43, valid loss: 0.06553708761930466
+epoch: 0, iter: 44, valid loss: 0.06553708761930466
+epoch: 0, iter: 45, valid loss: 0.06553708761930466
+epoch: 0, iter: 46, valid loss: 0.06553708761930466
+epoch: 0, iter: 47, valid loss: 0.06553708761930466
+epoch: 0, iter: 48, valid loss: 0.06553708761930466
+epoch: 0, iter: 49, valid loss: 0.06553708761930466
+epoch: 0, iter: 50, valid loss: 0.06553708761930466
+epoch: 0, iter: 51, valid loss: 2.757728338241577
+epoch: 0, iter: 52, valid loss: 0.06553708761930466
+epoch: 0, iter: 53, valid loss: 0.06553708761930466
+epoch: 0, iter: 54, valid loss: 0.06553708761930466
+epoch: 0, iter: 55, valid loss: 0.06553708761930466
+epoch: 0, iter: 56, valid loss: 0.06553708761930466
+epoch: 0, iter: 57, valid loss: 0.06553708761930466
+epoch: 0, iter: 58, valid loss: 0.06553708761930466
+epoch: 0, iter: 59, valid loss: 0.06553708761930466
+epoch: 0, iter: 60, valid loss: 0.06553708761930466
+epoch: 0, iter: 61, valid loss: 0.06553708761930466
+epoch: 0, iter: 62, valid loss: 0.06553708761930466
+epoch: 0, iter: 63, valid loss: 0.06553708761930466
+epoch: 0, iter: 64, valid loss: 0.06553708761930466
+epoch: 0, iter: 65, valid loss: 0.06553708761930466
+epoch: 0, iter: 66, valid loss: 0.06553708761930466
+epoch: 0, iter: 67, valid loss: 0.06553708761930466
+epoch: 0, iter: 68, valid loss: 0.06553708761930466
+epoch: 0, iter: 69, valid loss: 0.06553708761930466
+epoch: 0, iter: 70, valid loss: 0.06553708761930466
+epoch: 0, iter: 71, valid loss: 0.06553708761930466
+epoch: 0, iter: 72, valid loss: 0.06553708761930466
+epoch: 0, iter: 73, valid loss: 0.06553708761930466
+epoch: 0, iter: 74, valid loss: 0.06553708761930466
+epoch: 0, iter: 75, valid loss: 0.06553708761930466
+epoch: 0, iter: 76, valid loss: 2.7577285766601562
+epoch: 0, iter: 77, valid loss: 0.06553708761930466
+epoch: 0, iter: 78, valid loss: 0.06553708761930466
+epoch: 0, iter: 79, valid loss: 0.06553708761930466
+epoch: 0, iter: 80, valid loss: 0.06553708761930466
+epoch: 0, iter: 81, valid loss: 0.06553708761930466
+epoch: 0, iter: 82, valid loss: 0.06553708761930466
+epoch: 0, iter: 83, valid loss: 0.06553708761930466
+epoch: 0, iter: 84, valid loss: 0.06553708761930466
+epoch: 0, iter: 85, valid loss: 0.06553708761930466
+epoch: 0, iter: 86, valid loss: 0.06553708761930466
+epoch: 0, iter: 87, valid loss: 0.06553708761930466
+epoch: 0, iter: 88, valid loss: 2.7577285766601562
+epoch: 0, iter: 89, valid loss: 0.06553708761930466
+epoch: 0, iter: 90, valid loss: 0.06553708761930466
+epoch: 0, iter: 91, valid loss: 0.06553708761930466
+epoch: 0, iter: 92, valid loss: 0.06553708761930466
+epoch: 0, iter: 93, valid loss: 0.06553708761930466
+epoch: 0, iter: 94, valid loss: 0.06553708761930466
+epoch: 0, iter: 95, valid loss: 0.06553708761930466
+epoch: 0, iter: 96, valid loss: 0.06553708761930466
+epoch: 0, iter: 97, valid loss: 0.06553708761930466
+epoch: 0, iter: 98, valid loss: 0.06553708761930466
+epoch: 0, iter: 99, valid loss: 0.06553708761930466
+epoch: 0, iter: 100, valid loss: 0.06553708761930466
+epoch: 0, iter: 101, valid loss: 0.06553708761930466
+epoch: 0, iter: 102, valid loss: 0.06553708761930466
+epoch: 0, iter: 103, valid loss: 0.06553708761930466
+epoch: 0, iter: 104, valid loss: 0.06553708761930466
+epoch: 0, iter: 105, valid loss: 0.06553708761930466
+epoch: 0, iter: 106, valid loss: 0.06553708761930466
+epoch: 0, iter: 107, valid loss: 0.06553708761930466
+epoch: 0, iter: 108, valid loss: 0.06553708761930466
+epoch: 0, iter: 109, valid loss: 0.06553708761930466
+epoch: 0, iter: 110, valid loss: 0.06553708761930466
+epoch: 0, iter: 111, valid loss: 0.06553708761930466
+epoch: 0, iter: 112, valid loss: 0.06553708761930466
+epoch: 0, iter: 113, valid loss: 0.06553708761930466
+epoch: 0, iter: 114, valid loss: 0.06553708761930466
+epoch: 0, iter: 115, valid loss: 0.06553708761930466
+epoch: 0, iter: 116, valid loss: 0.06553708761930466
+epoch: 0, iter: 117, valid loss: 0.06553708761930466
+epoch: 0, iter: 118, valid loss: 0.06553708761930466
+epoch: 0, iter: 119, valid loss: 0.06553708761930466
+epoch: 0, iter: 120, valid loss: 0.06553708761930466
+epoch: 0, iter: 121, valid loss: 0.06553708761930466
+epoch: 0, iter: 122, valid loss: 0.06553708761930466
+epoch: 0, iter: 123, valid loss: 0.06553708761930466
+epoch: 0, iter: 124, valid loss: 0.06553708761930466
+epoch: 0, iter: 125, valid loss: 0.06553708761930466
+epoch: 0, iter: 126, valid loss: 0.06553708761930466
+epoch: 0, iter: 127, valid loss: 0.06553708761930466
+epoch: 0, iter: 128, valid loss: 0.06553708761930466
+epoch: 0, iter: 129, valid loss: 0.06553708761930466
+epoch: 0, iter: 130, valid loss: 0.06553708761930466
+epoch: 0, iter: 131, valid loss: 0.06553708761930466
+epoch: 0, iter: 132, valid loss: 0.06553708761930466
+epoch: 0, iter: 133, valid loss: 0.06553708761930466
+epoch: 0, iter: 134, valid loss: 0.06553708761930466
+epoch: 0, iter: 135, valid loss: 0.06553708761930466
+epoch: 0, iter: 136, valid loss: 0.06553708761930466
+epoch: 0, iter: 137, valid loss: 0.06553708761930466
+epoch: 0, iter: 138, valid loss: 0.06553708761930466
+epoch: 0, iter: 139, valid loss: 0.06553708761930466
+epoch: 0, iter: 140, valid loss: 0.06553708761930466
+epoch: 0, iter: 141, valid loss: 0.06553708761930466
+epoch: 0, iter: 142, valid loss: 0.06553708761930466
+epoch: 0, iter: 143, valid loss: 0.06553708761930466
+epoch: 0, iter: 144, valid loss: 0.06553708761930466
+epoch: 0, iter: 145, valid loss: 0.06553708761930466
+epoch: 0, iter: 146, valid loss: 0.06553708761930466
+epoch: 0, iter: 147, valid loss: 0.06553708761930466
+epoch: 0, iter: 148, valid loss: 0.06553708761930466
+epoch: 0, iter: 149, valid loss: 0.06553708761930466
+epoch: 0, iter: 150, valid loss: 0.06553708761930466
+epoch: 0, iter: 151, valid loss: 0.06553708761930466
+epoch: 0, iter: 152, valid loss: 0.06553708761930466
+epoch: 0, iter: 153, valid loss: 0.06553708761930466
+epoch: 0, iter: 154, valid loss: 0.06553708761930466
+epoch: 0, iter: 155, valid loss: 0.06553708761930466
+epoch: 0, iter: 156, valid loss: 0.06553708761930466
+epoch: 0, iter: 157, valid loss: 0.06553708761930466
+epoch: 0, iter: 158, valid loss: 0.06553708761930466
+epoch: 0, iter: 159, valid loss: 0.06553708761930466
+epoch: 0, iter: 160, valid loss: 0.06553708761930466
+epoch: 0, iter: 161, valid loss: 0.06553708761930466
+epoch: 0, iter: 162, valid loss: 0.06553708761930466
+epoch: 0, iter: 163, valid loss: 0.06553708761930466
+epoch: 0, iter: 164, valid loss: 0.06553708761930466
+epoch: 0, iter: 165, valid loss: 0.06553708761930466
+epoch: 0, iter: 166, valid loss: 0.06553708761930466
+epoch: 0, iter: 167, valid loss: 0.06553708761930466
+epoch: 0, iter: 168, valid loss: 0.06553708761930466
+epoch: 0, iter: 169, valid loss: 0.06553708761930466
+epoch: 0, iter: 170, valid loss: 0.06553708761930466
+epoch: 0, iter: 171, valid loss: 0.06553708761930466
+epoch: 0, iter: 172, valid loss: 0.06553708761930466
+epoch: 0, iter: 173, valid loss: 0.06553708761930466
+epoch: 0, iter: 174, valid loss: 0.06553708761930466
+epoch: 0, iter: 175, valid loss: 0.06553708761930466
+epoch: 0, iter: 176, valid loss: 0.06553708761930466
+epoch: 0, iter: 177, valid loss: 0.06553708761930466
+epoch: 0, iter: 178, valid loss: 0.06553708761930466
+epoch: 0, iter: 179, valid loss: 0.06553708761930466
+epoch: 0, iter: 180, valid loss: 0.06553708761930466
+epoch: 0, iter: 181, valid loss: 0.06553708761930466
+epoch: 0, iter: 182, valid loss: 0.06553708761930466
+epoch: 0, iter: 100, train_loss: 0.06553708761930466
+epoch: 0, iter: 101, train_loss: 0.06525960564613342
+epoch: 0, iter: 102, train_loss: 0.0650332048535347
+epoch: 0, iter: 103, train_loss: 0.0648343563079834
+epoch: 0, iter: 104, train_loss: 0.06466016173362732
+epoch: 0, iter: 105, train_loss: 0.06453220546245575
+epoch: 0, iter: 106, train_loss: 0.0643741637468338
+epoch: 0, iter: 107, train_loss: 0.06426942348480225
+epoch: 0, iter: 108, train_loss: 0.06415572762489319
+epoch: 0, iter: 109, train_loss: 0.06402479857206345
+epoch: 0, iter: 110, train_loss: 0.06391353160142899
+epoch: 0, iter: 111, train_loss: 0.06379856914281845
+epoch: 0, iter: 112, train_loss: 0.06368314474821091
+epoch: 0, iter: 113, train_loss: 0.06354331225156784
+epoch: 0, iter: 114, train_loss: 0.06340346485376358
+epoch: 0, iter: 115, train_loss: 0.06323707848787308
+epoch: 0, iter: 116, train_loss: 0.06306461989879608
+epoch: 0, iter: 117, train_loss: 0.0628964975476265
+epoch: 0, iter: 118, train_loss: 0.06270942091941833
+epoch: 0, iter: 119, train_loss: 0.06251873075962067
+epoch: 0, iter: 120, train_loss: 0.062315233051776886
+epoch: 0, iter: 121, train_loss: 0.06210598349571228
+epoch: 0, iter: 122, train_loss: 0.06189926341176033
+epoch: 0, iter: 123, train_loss: 0.06168152019381523
+epoch: 0, iter: 124, train_loss: 0.06145890802145004
+epoch: 0, iter: 125, train_loss: 0.06124308332800865
+epoch: 0, iter: 126, train_loss: 2.8267502784729004
+epoch: 0, iter: 127, train_loss: 0.06963061541318893
+epoch: 0, iter: 128, train_loss: 0.07791882008314133
+epoch: 0, iter: 129, train_loss: 0.08571423590183258
+epoch: 0, iter: 130, train_loss: 0.09277509152889252
+epoch: 0, iter: 131, train_loss: 0.09905869513750076
+epoch: 0, iter: 132, train_loss: 0.10441630333662033
+epoch: 0, iter: 133, train_loss: 0.10882864892482758
+epoch: 0, iter: 134, train_loss: 0.11225394904613495
+epoch: 0, iter: 135, train_loss: 0.11476126313209534
+epoch: 0, iter: 136, train_loss: 0.11636688560247421
+epoch: 0, iter: 137, train_loss: 2.202518939971924
+epoch: 0, iter: 138, train_loss: 0.1262797862291336
+epoch: 0, iter: 139, train_loss: 0.13419513404369354
+epoch: 0, iter: 140, train_loss: 0.14070624113082886
+epoch: 0, iter: 141, train_loss: 1.997387409210205
+epoch: 0, iter: 142, train_loss: 0.15806889533996582
+epoch: 0, iter: 143, train_loss: 0.16850177943706512
+epoch: 0, iter: 144, train_loss: 0.17704081535339355
+epoch: 0, iter: 145, train_loss: 0.18365564942359924
+epoch: 0, iter: 146, train_loss: 0.18839214742183685
+epoch: 0, iter: 147, train_loss: 0.19141021370887756
+epoch: 0, iter: 148, train_loss: 0.19283071160316467
+epoch: 0, iter: 149, train_loss: 0.1928519457578659
+epoch: 0, iter: 150, train_loss: 0.19166357815265656
+epoch: 0, iter: 151, train_loss: 0.1894536316394806
+epoch: 0, iter: 152, train_loss: 0.1863991767168045
+epoch: 0, iter: 153, train_loss: 0.18268948793411255
+epoch: 0, iter: 154, train_loss: 0.1784464567899704
+epoch: 0, iter: 155, train_loss: 0.1737850457429886
+epoch: 0, iter: 156, train_loss: 0.16886310279369354
+epoch: 0, iter: 157, train_loss: 0.1637808233499527
+epoch: 0, iter: 158, train_loss: 0.15859048068523407
+epoch: 0, iter: 159, train_loss: 0.15337224304676056
+epoch: 0, iter: 160, train_loss: 0.14819787442684174
+epoch: 0, iter: 161, train_loss: 0.1430659145116806
+epoch: 0, iter: 162, train_loss: 0.13805744051933289
+epoch: 0, iter: 163, train_loss: 0.13319727778434753
+epoch: 0, iter: 164, train_loss: 0.12847065925598145
+epoch: 0, iter: 165, train_loss: 0.12392465770244598
+epoch: 0, iter: 166, train_loss: 0.11954482644796371
+epoch: 0, iter: 167, train_loss: 0.11537221074104309
+epoch: 0, iter: 168, train_loss: 0.11139531433582306
+epoch: 0, iter: 169, train_loss: 0.10760241001844406
+epoch: 0, iter: 170, train_loss: 0.10403886437416077
+epoch: 0, iter: 171, train_loss: 0.10060767829418182
+epoch: 0, iter: 172, train_loss: 0.09744707494974136
+epoch: 0, iter: 173, train_loss: 0.09442722797393799
+epoch: 0, iter: 174, train_loss: 0.0916081964969635
+epoch: 0, iter: 175, train_loss: 0.0889512374997139
+epoch: 0, iter: 176, train_loss: 0.08650019764900208
+epoch: 0, iter: 177, train_loss: 0.08420488983392715
+epoch: 0, iter: 178, train_loss: 0.08205872029066086
+epoch: 0, iter: 179, train_loss: 0.08006122708320618
+epoch: 0, iter: 180, train_loss: 0.07820868492126465
+epoch: 0, iter: 181, train_loss: 0.07651659846305847
+epoch: 0, iter: 182, train_loss: 0.0749550312757492
+epoch: 0, iter: 183, train_loss: 0.07352039217948914
+epoch: 0, iter: 184, train_loss: 0.07219461351633072
+epoch: 0, iter: 185, train_loss: 0.07100488245487213
+epoch: 0, iter: 186, train_loss: 0.06989343464374542
+epoch: 0, iter: 187, train_loss: 0.06887956708669662
+epoch: 0, iter: 188, train_loss: 0.06798752397298813
+epoch: 0, iter: 189, train_loss: 0.0671813040971756
+epoch: 0, iter: 190, train_loss: 0.06643354147672653
+epoch: 0, iter: 191, train_loss: 0.06577363610267639
+epoch: 0, iter: 192, train_loss: 0.06520108133554459
+epoch: 0, iter: 193, train_loss: 0.06468798220157623
+epoch: 0, iter: 194, train_loss: 0.0642375648021698
+epoch: 0, iter: 195, train_loss: 0.0638129934668541
+epoch: 0, iter: 196, train_loss: 0.06347998976707458
+epoch: 0, iter: 197, train_loss: 2.793424129486084
+epoch: 0, iter: 198, train_loss: 0.06912034004926682
+epoch: 0, iter: 199, train_loss: 0.07473070919513702
+epoch: 0, iter: 0, valid loss: 0.07993820309638977
+epoch: 0, iter: 1, valid loss: 0.07993820309638977
+epoch: 0, iter: 2, valid loss: 0.07993820309638977
+epoch: 0, iter: 3, valid loss: 0.07993820309638977
+epoch: 0, iter: 4, valid loss: 0.07993820309638977
+epoch: 0, iter: 5, valid loss: 0.07993820309638977
+epoch: 0, iter: 6, valid loss: 0.07993820309638977
+epoch: 0, iter: 7, valid loss: 0.07993820309638977
+epoch: 0, iter: 8, valid loss: 0.07993820309638977
+epoch: 0, iter: 9, valid loss: 0.07993820309638977
+epoch: 0, iter: 10, valid loss: 0.07993820309638977
+epoch: 0, iter: 11, valid loss: 0.07993820309638977
+epoch: 0, iter: 12, valid loss: 0.07993820309638977
+epoch: 0, iter: 13, valid loss: 0.07993820309638977
+epoch: 0, iter: 14, valid loss: 0.07993820309638977
+epoch: 0, iter: 15, valid loss: 0.07993820309638977
+epoch: 0, iter: 16, valid loss: 0.07993820309638977
+epoch: 0, iter: 17, valid loss: 0.07993820309638977
+epoch: 0, iter: 18, valid loss: 0.07993820309638977
+epoch: 0, iter: 19, valid loss: 0.07993820309638977
+epoch: 0, iter: 20, valid loss: 0.07993820309638977
+epoch: 0, iter: 21, valid loss: 0.07993820309638977
+epoch: 0, iter: 22, valid loss: 0.07993820309638977
+epoch: 0, iter: 23, valid loss: 0.07993820309638977
+epoch: 0, iter: 24, valid loss: 0.07993820309638977
+epoch: 0, iter: 25, valid loss: 0.07993820309638977
+epoch: 0, iter: 26, valid loss: 0.07993820309638977
+epoch: 0, iter: 27, valid loss: 0.07993820309638977
+epoch: 0, iter: 28, valid loss: 0.07993820309638977
+epoch: 0, iter: 29, valid loss: 0.07993820309638977
+epoch: 0, iter: 30, valid loss: 0.07993820309638977
+epoch: 0, iter: 31, valid loss: 0.07993820309638977
+epoch: 0, iter: 32, valid loss: 0.07993820309638977
+epoch: 0, iter: 33, valid loss: 0.07993820309638977
+epoch: 0, iter: 34, valid loss: 0.07993820309638977
+epoch: 0, iter: 35, valid loss: 0.07993820309638977
+epoch: 0, iter: 36, valid loss: 0.07993820309638977
+epoch: 0, iter: 37, valid loss: 0.07993820309638977
+epoch: 0, iter: 38, valid loss: 0.07993820309638977
+epoch: 0, iter: 39, valid loss: 0.07993820309638977
+epoch: 0, iter: 40, valid loss: 0.07993820309638977
+epoch: 0, iter: 41, valid loss: 0.07993820309638977
+epoch: 0, iter: 42, valid loss: 0.07993820309638977
+epoch: 0, iter: 43, valid loss: 0.07993820309638977
+epoch: 0, iter: 44, valid loss: 0.07993820309638977
+epoch: 0, iter: 45, valid loss: 0.07993820309638977
+epoch: 0, iter: 46, valid loss: 0.07993820309638977
+epoch: 0, iter: 47, valid loss: 0.07993820309638977
+epoch: 0, iter: 48, valid loss: 0.07993820309638977
+epoch: 0, iter: 49, valid loss: 0.07993820309638977
+epoch: 0, iter: 50, valid loss: 0.07993820309638977
+epoch: 0, iter: 51, valid loss: 2.566204309463501
+epoch: 0, iter: 52, valid loss: 0.07993820309638977
+epoch: 0, iter: 53, valid loss: 0.07993820309638977
+epoch: 0, iter: 54, valid loss: 0.07993820309638977
+epoch: 0, iter: 55, valid loss: 0.07993820309638977
+epoch: 0, iter: 56, valid loss: 0.07993820309638977
+epoch: 0, iter: 57, valid loss: 0.07993820309638977
+epoch: 0, iter: 58, valid loss: 0.07993820309638977
+epoch: 0, iter: 59, valid loss: 0.07993820309638977
+epoch: 0, iter: 60, valid loss: 0.07993820309638977
+epoch: 0, iter: 61, valid loss: 0.07993820309638977
+epoch: 0, iter: 62, valid loss: 0.07993820309638977
+epoch: 0, iter: 63, valid loss: 0.07993820309638977
+epoch: 0, iter: 64, valid loss: 0.07993820309638977
+epoch: 0, iter: 65, valid loss: 0.07993820309638977
+epoch: 0, iter: 66, valid loss: 0.07993820309638977
+epoch: 0, iter: 67, valid loss: 0.07993820309638977
+epoch: 0, iter: 68, valid loss: 0.07993820309638977
+epoch: 0, iter: 69, valid loss: 0.07993820309638977
+epoch: 0, iter: 70, valid loss: 0.07993820309638977
+epoch: 0, iter: 71, valid loss: 0.07993820309638977
+epoch: 0, iter: 72, valid loss: 0.07993820309638977
+epoch: 0, iter: 73, valid loss: 0.07993820309638977
+epoch: 0, iter: 74, valid loss: 0.07993820309638977
+epoch: 0, iter: 75, valid loss: 0.07993820309638977
+epoch: 0, iter: 76, valid loss: 2.566204309463501
+epoch: 0, iter: 77, valid loss: 0.07993820309638977
+epoch: 0, iter: 78, valid loss: 0.07993820309638977
+epoch: 0, iter: 79, valid loss: 0.07993820309638977
