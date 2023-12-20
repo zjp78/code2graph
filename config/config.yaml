@@ -17,12 +17,12 @@ gnn:
   pooling_ratio: 0.8
   drop_out: 0.5
   n_hidden_layers: 3
-  n_head: 3
+  n_head: 4
   n_gru: 3
   edge_sample_ratio: 0.8
   rnn:
     hidden_size: 256
-    num_layers: 1
+    num_layers: 3
     drop_out: 0.5
     use_bi: true
     activation: relu
